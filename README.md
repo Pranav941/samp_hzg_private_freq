@@ -1,17 +1,17 @@
 ## HZG-Freq
 
-#Pre-requisites
+# Pre-requisites
 MoonLoader (https://www.blast.hk/threads/13305/)
 text-editor
 An account at a text hosting site, Pastebin in this case
 
-#Installation
+# Installation
 
 Move the following files to 'Moonloader'
 -dyna-freq.lua
 -'lib' folder from the archive
 
-#Usage
+# Usage
 -Make a pastebin link and share it with the people you want on your freq
 -Copy its "RAW" format link
   - Can also be done by adding RAW to the link
