@@ -17,7 +17,11 @@
 
 * Copy its "RAW" format link
   - Can also be done by adding RAW to the link
-    - Example : https://pastebin.com/aBdF234 > https://pastebin.com/RAW/aBdF234
+    - Example :
+
+`https://pastebin.com/aBdF234 >
+https://pastebin.com/RAW/aBdF234`
+
 * Open the dyna-freq.lua > Goto Line 16
   - Paste the link inside the quotes
     - Example :
