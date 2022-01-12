@@ -1,4 +1,5 @@
 --#http://ugbase.eu/index.php?threads/all-virtual-key-codes.2154/
+--#script_author(Joe_Dunne)
 local key = 90
 
 require"lib.moonloader"
