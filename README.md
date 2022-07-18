@@ -2,7 +2,7 @@
 
 ## Pre-requisites
 * [Moonloader](https://www.blast.hk/threads/13305/ "Download Moonloader")
-* Text-editor
+* Text-editor (Notepad, Notepadd++, Sublime, etc)
 * An account at a text hosting site, Pastebin in this case
 
 ## Installation
